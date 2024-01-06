@@ -26,10 +26,10 @@ Ensure you have Node.js and npm installed on your machine.
 
 ```bash
 # Clone the repository
-git clone https://github.com/MOHANA-SABARI/To-Do-App.git
+git clone https://github.com/MOHANA-SABARI/ToDo-App.git
 
 # Change directory
-cd To-Do-App
+cd ToDo-App
 
 # Install dependencies
 npm install
